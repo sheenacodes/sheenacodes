@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Sheena
 
 <!--
 **sheenacodes/sheenacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on developing an Urban Open Platform for Data as part of the Finest Twins Project - http://www.finesttwins.eu/
+- 🌱 I’m currently learning data engineering and ansible for infrastructure automation.
+- 😄 Pronouns: She/Her
